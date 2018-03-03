@@ -1,0 +1,20 @@
+{
+  "name": "pug-email-templates-memleak",
+  "version": "1.0.0",
+  "description": "Demonstrates the v3.x memory leak of pug/email-templates",
+  "main": "app-pug.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramondeklein/pug-email-templates-memleak.git"
+  },
+  "author": "mail@ramondeklein.nl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramondeklein/pug-email-templates-memleak/issues"
+  },
+  "homepage": "https://github.com/ramondeklein/pug-email-templates-memleak#readme",
+  "dependencies": {
+    "email-templates": "^3.5.0",
+    "express": "^4.16.2"
+  }
+}
